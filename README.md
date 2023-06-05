@@ -25,11 +25,11 @@ The Jupyter Notebook in this repository provides an implementation of GMM-based 
 
 ![Two components](artifacts/2.png)
 
-*Description: Image with 2 GMM components *
+*Description: Image with 2 GMM components*
 
 ![Five components](artifacts/5.png)
 
-*Description: Image with 5 GMM components *
+*Description: Image with 5 GMM components*
 
 ## 3) Background Subtraction
 
@@ -45,7 +45,7 @@ The Jupyter Notebook in this repository also includes an example of background s
 
 ![Subtracted background](artifacts/extract.png)
 
-*Description: Subtracted Background Results! *
+*Description: Subtracted Background Results*
 
 ## Concepts
 
