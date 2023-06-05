@@ -3,7 +3,7 @@
 This repository contains a Jupyter Notebook that implements Gaussian Mixture Model (GMM) for semantic segmentation and background extraction. GMM class is implemented from scratch without using any libraries like sklearn.
 
 
-If you are unable to render the notebook on github, you can view it [here](https://nbviewer.org/github/akash18tripathi/Gaussian-Naive-Bayes-From-Scratch/blob/main/Gaussian%20Naive%20Bayes.ipynb)
+If you are unable to render the notebook on github, you can view it [here](https://nbviewer.org/github/akash18tripathi/Gaussian-Mixture-Models-for-Background-Extraction/blob/main/Gaussian%20Mixture%20Model.ipynb)
 
 ## What Jupyter Notebook has to offer?
 
@@ -36,9 +36,11 @@ The Jupyter Notebook in this repository provides an implementation of GMM-based 
 The Jupyter Notebook in this repository also includes an example of background subtraction using GMM. It shows how to train a GMM model on a video sequence to estimate the background, and then subtract the background from each frame of a GIF file to extract the foreground objects.
 
 ![Original GIF](videos/traffic.gif)
+
 *Description: Original GIF*
 
 ![Extrated Background](artifacts/bg.png)
+
 *Description: Extracted background*
 
 ![Subtracted background](artifacts/extract.png)
